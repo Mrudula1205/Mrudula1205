@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mrudula1205&title=MultiLanguage,Repositories,Commits,Stars,PullRequest,Followers" alt="anuragkj" /></a> </p>
 
+- 🔭 I’m currently working on natural language processing
+- 🌱 I’m currently learning Generative AI
+- 👯 I’m looking to collaborate on hackathons and open-source projects
+- 😄 Pronouns: She/her
 - 📫 How to reach me **f20210023@dubai.bits-pilani.ac.in**
   
 
