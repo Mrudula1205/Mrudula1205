@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mrudula1205&label=Profile%20views&color=0e75b6&style=flat" alt="Mrudula1205" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mrudula1205&title=MultiLanguage,Repositories,Commits,Stars,PullRequest,Followers" alt="anuragkj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mrudula1205&title=MultiLanguage,Repositories,Commits,Stars,PullRequest,Followers" alt="Mrudula1205" /></a> </p>
 
 - 🔭 I’m currently working on natural language processing
 - 🌱 I’m currently learning Generative AI
@@ -41,11 +41,11 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrudula1205&show_icons=true&locale=en&layout=compact" alt="anuragkj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrudula1205&show_icons=true&locale=en&layout=compact" alt="Mrudula1205" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrudula1205&show_icons=true&locale=en" alt="anuragkj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrudula1205&show_icons=true&locale=en" alt="Mrudula1205" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrudula1205&" alt="anuragkj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrudula1205&" alt="Mrudula1205" /></p>
 
  <!-- <h4> GitHub Stats</h2>
 <p align="center">
