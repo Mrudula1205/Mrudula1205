@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mrudula Rahate</h1>
 <h3 align="center">Computer Science Undergrad from Birla Institute of Science and Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mrudula1205&label=Profile%20views&color=0e75b6&style=flat" alt="Mrudula1205" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mrudula1205&title=MultiLanguage,Repositories,Commits,Stars,PullRequest,Followers" alt="Mrudula1205" /></a> </p>
 
 - 🔭 I’m currently working on natural language processing
 - 🌱 I’m currently learning Generative AI
